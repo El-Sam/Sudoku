@@ -1,3 +1,1 @@
-les icons du dossier "icons" doivent impérativement etre mis dans le dossier qui sera créé après compilation .
-
-SVP ! Veuillez le faire maintenant... 
+The icons in the "icons" folder MUST be put in the compilation folder, whether it's debug or release. 
